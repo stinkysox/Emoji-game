@@ -1,0 +1,11 @@
+.bg-container {
+  height: 100vh;
+  background: linear-gradient(#9796f0, #fbc7d4);
+}
+
+.card-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

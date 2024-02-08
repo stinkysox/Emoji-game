@@ -1,0 +1,50 @@
+* {
+  font-family: 'roboto';
+}
+
+.lose-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-bar-lose {
+  background-color: #ffffff33;
+  padding: 12px;
+}
+
+.result-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff33;
+  margin: auto;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.lose-text-container {
+  padding: 8px;
+  margin: 20px;
+  font-weight: bold;
+  color: white;
+}
+.lose-image-container {
+  margin: 12px;
+  padding: 10px;
+}
+
+.result-btn {
+  border: none;
+  background-color: #ffce27;
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.result-score {
+  color: #6a59ff;
+  font-weight: bolder;
+  font-size: 24px;
+}

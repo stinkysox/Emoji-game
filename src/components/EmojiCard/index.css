@@ -1,0 +1,16 @@
+.card-el {
+  padding: 10px;
+  background-color: #ffffff33;
+  border-radius: 8px;
+  width: 180px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.emoji-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
